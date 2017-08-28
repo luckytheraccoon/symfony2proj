@@ -1,0 +1,3 @@
+intranet_landing_page_homepage:
+    path:     /
+    defaults: { _controller: IntranetLandingPageBundle:Default:index }

@@ -1,0 +1,4 @@
+intranet_landing_page:
+    resource: "@IntranetLandingPageBundle/Resources/config/routing.yml"
+    prefix:   /
+

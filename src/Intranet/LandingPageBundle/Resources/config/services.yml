@@ -1,0 +1,4 @@
+services:
+#    intranet_landing_page.example:
+#        class: Intranet\LandingPageBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
